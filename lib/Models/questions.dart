@@ -147,20 +147,4 @@ const List<Question> sample = [
         "Computer science, general agriculture, hospitality and tourism and pharmaceutical sciences",
     "https://stu.edu.gh",
   ),
-  Question(
-    "13",
-    "Students",
-    "Do you want to access your school portal?",
-    "Do not worry!  Sylvia is here to get you sorted. \n"
-        "Visit the student portal, provide your index number and password. You are good to go.",
-    "https://stu.edu.gh/bkapps/pages/students/",
-  ),
-  Question(
-    "13",
-    "Staff",
-    "Need information on your staff portal?",
-    "Sylvia is here for you. \n"
-        "Visit the staff portal, provide your staff ID and password. You are good to go.",
-    "https://stu.edu.gh/bkapps/",
-  ),
 ];

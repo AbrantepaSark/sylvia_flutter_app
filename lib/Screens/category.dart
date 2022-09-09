@@ -20,8 +20,6 @@ class MyCat extends StatelessWidget {
       "Mission",
       "History",
       "Faculties",
-      "Students",
-      "Staff",
     ];
 
     List<IconData> icons = [
@@ -31,8 +29,6 @@ class MyCat extends StatelessWidget {
       LineIcons.heartbeat,
       Icons.info_outline,
       LineIcons.building,
-      LineIcons.userGraduate,
-      LineIcons.chalkboardTeacher,
     ];
 
     return Scaffold(

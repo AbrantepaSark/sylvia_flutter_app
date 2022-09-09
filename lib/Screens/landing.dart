@@ -41,7 +41,7 @@ class LandingScreen extends StatelessWidget {
             child: Column(
               children: [
                 Text(
-                  "Welcome, I'm Sylvia",
+                  "Welcome to STU",
                   style: TextStyle(
                     fontSize: width * 0.065,
                     fontWeight: FontWeight.bold,

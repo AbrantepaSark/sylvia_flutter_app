@@ -21,7 +21,7 @@ class _ResponseState extends State<Response> {
   void initState() {
     super.initState();
     Timer(
-      const Duration(microseconds: 500),
+      const Duration(seconds: 2),
       (() => flutterTts.speak(voiceText)),
     );
   }
